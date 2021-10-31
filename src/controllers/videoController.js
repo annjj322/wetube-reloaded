@@ -1,4 +1,4 @@
-export const trending = (req, res) => res.render("home", {pageTitle: "Home"});
+export const trending = (req, res) => res.render("home");
 // express -> view directory -> pug file 따로 import 해주지않아도 됨.
 
 export const see = (req, res) => {
