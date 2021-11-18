@@ -1,5 +1,3 @@
-import videoRouter from "../routers/videoRouter";
-
 let videos = [
   {
     title: "First Video",
